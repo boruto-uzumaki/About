@@ -5,4 +5,4 @@ __Jutsus:__ Jougan (occular jutsu), Vashing Rasengan, Wind-style gale palm, ligh
 
 My master is Sasuke Uchhiha, who possesses the Rinnegan.  
 
-![Boruto Uzumaki](https://github.com/boruto-uzumaki/boruto-uzumaki/boruto.jpg, "Boruto Uzumaki")
+![Boruto Uzumaki](https://github.com/boruto-uzumaki/boruto-uzumaki/blob/master/boruto.jpg)
