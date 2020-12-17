@@ -6,13 +6,13 @@ __Jutsus:__
 * Jougan (occular jutsu) -> (Current abilities: Space-time Teleportation)
 * Vashing Rasengan
 * High-compression Rasengan
-* Wind-style gale palm
+* Wind-style Gale Palm
 * Lightning shuriken
-* shadow clones (currently 4 clones is my limit)
+* Shadow clones (currently 4 clones is my limit)
 
 __Chakra Nature:__
 * Wind style
-* Lightning
+* Lightning style
 
 My master is Sasuke Uchhiha, who awakened the Rinnegan.  
 
